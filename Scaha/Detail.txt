@@ -1,0 +1,1 @@
+Please use the apiKey in adaptergpt class which i will send it to your email , and upload your images to your notebook and then change the paths of images in code 
