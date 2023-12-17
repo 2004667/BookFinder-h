@@ -29,7 +29,7 @@ public class AdapterGPT {
     }
     public JsonNode chatGPT(String genre) {
         String url = "https://api.openai.com/v1/chat/completions";
-        String apiKey = "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";
+        String apiKey = "";
         String model = "gpt-3.5-turbo";
         try {
             URL obj = new URL(url);
